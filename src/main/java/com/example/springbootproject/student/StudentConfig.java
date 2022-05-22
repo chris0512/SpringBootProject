@@ -20,7 +20,6 @@ public class StudentConfig {
             Student mariam = new Student(
                     "Mariam",
                     "Mariam@gmail.com",
-                    21,
                     LocalDate.of(2000, Month.JANUARY, 5)
 
             );
@@ -28,7 +27,6 @@ public class StudentConfig {
             Student alex = new Student(
                     "Alex",
                     "alex@gmail.com",
-                    21,
                     LocalDate.of(2004, Month.JANUARY, 5)
 
             );
